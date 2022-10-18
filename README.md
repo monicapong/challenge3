@@ -1,6 +1,6 @@
-# Module 3 Challenge
+# Module 3 JavaScript Challenge: Password Generator
 
-## JavaScript Challenge: Password Generator
+## Description
 
 This application was created to allow a user to generate a random string of characters to use as a strong, secured password. It emphasizes the use of JavaScript in order for the user to interact with prompts to include different criteria for their randomly generated password.
 
