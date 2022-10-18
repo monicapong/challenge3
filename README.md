@@ -23,7 +23,7 @@ The window will then ask the user a set of criteria questions to include in thei
 
 After answering all the criteria questions, a randomly generated password using the user's criterias will appear in the box.
 
-![Image of randomly generated password] (images/generatedPwd.png)
+![Image of randomly generated password](images/generatedPwd.png)
 
 Link to deployed application: https://monicapong.github.io/challenge3
 
